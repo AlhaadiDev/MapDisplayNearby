@@ -7,5 +7,7 @@ GooleMap display nearby places
 1. Main Page layout
 <img src="appimages\home.png"/>
 
-2.Zoom Map 
+<br>
+
+2. Zoom Map 
 <img src="appimages\homezoom.png"/>
